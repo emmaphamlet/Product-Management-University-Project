@@ -1,5 +1,5 @@
 - Respect all teammates
-- Show up to meeting and class on time
+- Show up to meetings and classes on time
 - Notify group members if going to be late/absent
 - Complete your individual share of the work
 - Be communicative and responsive in group chat
