@@ -1,0 +1,9 @@
+- Respect all teammates
+- Show up to meeting and class on time
+- Notify group members if going to be late/absent
+- Complete your individual share of the work
+- Be communicative and responsive in group chat
+- Main communication should be over text
+- Reply to messages within a day
+- Check group chat every day
+- Deadlines for all assignments should be 1 day prior to give time for any last minute adjustments
