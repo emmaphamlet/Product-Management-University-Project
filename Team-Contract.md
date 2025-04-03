@@ -29,7 +29,7 @@ Identify the strengths and desired growth areas of each team member. This will a
 |   <br>Lei <br> | writing, dependability, punctuality, <br> | designing, presenting<br> |
 |   <br>Emma <br> | responsible, problem-solving, writing, communication, time management<br> | Technical skills, presenting<br> |
 | Anant<br> | communication, problem-solving, quick-thinking, dependability, backend coding, front-end development<br> | Essay writing, digital designing, presenting<br> |
-|   Aubrey  <br><br> |   <br> |   <br> |
+|   Audrey  <br><br> |   <br> |   <br> |
 
   
   
