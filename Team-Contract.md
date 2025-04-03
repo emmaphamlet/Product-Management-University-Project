@@ -1,3 +1,5 @@
+**Team Guidelines**
+
 - Respect all teammates
 - Show up to meetings and classes on time
 - Notify group members if going to be late/absent
@@ -9,34 +11,15 @@
 - Deadlines for all assignments should be 1 day prior to give time for any last minute adjustments
 
 **
-Team Contract Directions and Template
-  
-Team Guidelines are a document that a group creates to formalize the expectations of team members. 
-Taking the time now to decide how your team will communicate and share work will allow you to focus on the project for the rest of the quarter rather than spend energy negotiating these dynamics while trying to get your work done. 
-  
-What are Team Guidelines?
-(The following information is adapted from the Centre for Teaching Excellence University of Waterloo)
-Team Guidelines should contain the following:
-*   Group members' names, contact information, and preferred mode of communication.
-    
-*   Expectations (ground rules) regarding preparation for and attendance at group meetings, frequency and duration of meetings, and communication. The contract should focus on behaviors that will be expected of all group members and should only include those behaviors that are crucial to the group's effectiveness. Groups should aim for five-seven ground rules.
-    
-*   Assignment of specific strengths, responsibilities, and potential areas for growth. Your team can itemize the tasks to be completed for activities (such as compiling group responses, formatting, and proofreading, etc.) if you feel you have enough knowledge about the project to do so.
-    
-*   Outline of the specific process for dealing with unmet expectations or other potential conflicts.
-    
-*   An agreed-upon method for peer feedback during the quarter so that problems can be addressed before the due dates.
-    
-*   A place for each group member to sign, indicating their agreement to the contract.
-    
-Team guidelines can also the basis for removing someone from the team - so be clear and detailed in your expectations (for example - you might want to make it clear that if someone has an extra shift assigned at work and needs to miss a meeting, they will send a text to inform the group, not just go missing!)
-An example template of a Team Contract template is included below. You are not required to use this format, and can tailor the categories to fit your team and project. Your final contract, however, must address the bullet points above and should cover similar topics, with an indication of each team member’s commitment to follow the expectations you decide on as a group.
-You may note that this contract offers the opportunity for team members to identify their strengths. Some team members may identify their interpersonal strengths within the group (such as conflict resolution or presenting), in addition to the tactical elements of the project they’re willing to complete. While these ‘soft skill’ roles may be not assigned to a particular task, they can be helpful in the case of group indecision or conflict. Because these skills are highly valued when you have to work in groups outside of academia, considering these skills in this contract is encouraged.
+
+
   
   
   
-Group Project Team Contract Template
-Group # and/or Name: 9
+**Group Project Team Contract**
+
+**Group 9:** Anant Dhokia, Audrey Yang, Emma Hamlet, Lei Ann Dela Cruz
+
 1.  STRENGTH & GROWTH OPPORTUNITIES OF TEAM MEMBERS
     
 Identify the strengths and desired growth areas of each team member. This will allow each person to leverage their own strengths, while also helping individuals identify growth opportunities. This may help guide you in the roles you play and the tasks you commit to. This does not mean that members will not work on and develop areas that are not their strengths or that are not desired growth areas. 
