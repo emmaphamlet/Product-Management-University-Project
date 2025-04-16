@@ -1,11 +1,11 @@
 **Vision Statement**
 
-We aim to implement a modern, scalable, and user-friendly course registration system that upgrades the academic course registration experience for all users by delivering: 
+We aim to implement a modern, scalable, and user-friendly course registration system that upgrades the academic registration experience for all users by delivering:
 - Functionality
 - Accessibility
 - Integration with institutional services 
 
-This will empower students to plan their course schedule and register for classes efficiently while also supporting academic success.
+This will empower students to plan schedules and register efficiently while supporting academic success.
 
 **Problem Statement**
 
@@ -14,21 +14,21 @@ Since the current system lacks real-time processing, students, advisors, faculty
 - Prerequisite errors 
 - Scheduling inefficiencies
 
-This results in student frustration, missed academic opportunities, and high administrative overhead. 
+This results in student frustration, missed opportunities, and high administrative overhead. 
 
 **Solution Description**
 
-Our updated course registration system that we plan to design, will be highly advantageous to students of all backgrounds and academic standings by enhancing:
+Our updated registration system will benefit students of all backgrounds and standings by enhancing:
 - Usability
 - Frequency of real-time updates
-- Multi-support of different languages
+- Multi-language support
 
-Additionally, it will be both viable and practical because we have taken note of the pain points that multiple stakeholders have and are ready to directly address these pain points with our new system.
+It is desirable because it improves the student experience, viable due to stakeholder-informed design, and feasible through scalable architecture and integration with existing systems.
 
 **Target Audience**
 
 Our key stakeholders include: 
-- Students (both undergraduate and graduate)
+- Students (undergraduate and graduate)
 - Academic Advisors
 - Faculty
 - University Registrar
@@ -41,7 +41,7 @@ Our key stakeholders include:
 
 **Benefits**
 
-Upon implementing our updated system, we expect to observe:
+We expect to observe:
 - Increased efficiency
 - Student success
 - User retention
@@ -49,10 +49,10 @@ Upon implementing our updated system, we expect to observe:
 
 **Strategic Alignment**
 
-Our solution supports a wide range of the university's organizational goals because it:
+Our solution supports university goals by:
 
-1. Improves access and equity for international students
+1. Improving access and equity for international students
 
-2. Aligns with GSU's goals of modernizing their current course registration system 
+2. Aligning with GSU's modernization goals 
 
-3. Enhances their integration with various operations
+3. Enhancing integration with operations
