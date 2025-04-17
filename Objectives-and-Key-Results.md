@@ -1,7 +1,9 @@
 ### **Objective 1: Enhance the User Experience of the Course Registration System**
 
 Statement:  
+
 Create a seamless, intuitive, and accessible course registration system that provides a modern and efficient experience for students, faculty, and staff, improving the registration process while meeting various user needs， fostering academic success and operational efficiency.
+
 Key Results:
 *   Obtain a user satisfaction score of 90% through post-course surveys administered to students and faculty by the end of the first-course registration cycle. The surveys should include questions on usability, accessibility, and responsiveness.
     
@@ -13,7 +15,9 @@ Key Results:
 ### **Objective 2: Improve System Scalability and Reliability During Peak Registration Times**
 
 Statement:  
+
 Develop a highly scalable and reliable course registration system capable of handling significant user traffic during peak registration times. This will ensure uninterrupted service and exceptional user performance, regardless of demand fluctuations.
+
 Key Results:
 *   Deploy cloud-native, horizontally scalable architecture and implement automated scaling by the start of the following registration period to ensure 99.99% uptime during peak registration periods.
     
