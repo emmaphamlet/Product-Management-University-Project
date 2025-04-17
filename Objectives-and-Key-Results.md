@@ -2,7 +2,7 @@
 
 Statement:  
 
-Create a seamless, intuitive, and accessible course registration system that provides a modern and efficient experience for students, faculty, and staff, improving the registration process while meeting various user needs， fostering academic success and operational efficiency.
+Create a seamless, intuitive, and accessible course registration system that provides a modern and efficient experience for students, faculty, and staff, improving the registration process while meeting various user needs, fostering academic success and operational efficiency.
 
 Key Results:
 *   Obtain a user satisfaction score of 90% through post-course surveys administered to students and faculty by the end of the first-course registration cycle. The surveys should include questions on usability, accessibility, and responsiveness.
