@@ -6,15 +6,15 @@ The system was originally developed in the early 2000s and was not designed to f
   
 The University's present course registration system is impaired by various problems owing to the lack of integration management within the different departments of the university and the datedness of the legacy system. This adds yet another layer of weakness and complexity to the process of enrolling in the courses. Specifically, it makes the following things difficult:  
   
-- 
+- Providing accurate and real-time course updates 
 - Enabling monitoring of compliance with visa requirements for international students  
-- Dealing with peak registration periods without suffering system crashes or a decrease in performance  
+- Dealing with peak registration periods without encountering system crashes or a decrease in performance  
   
 **Impact**  
 The constraints of the current registration system have become increasingly apparent as time has passed and student bodies have changed. These consequences have far-reaching implications:  
   
 - Academic advisors lack the proper tools to view student academic profiles, which hinders their ability to offer guidance effectively  
-- Students are constantly exposed to delays and crashes that negatively impacts the trajectory of their course planning and registration. Students face delays, system crashes, which complicates course planning and registration. According to EDUCAUSE (2024), student-facing technology should enable intuitive, mobile-friendly interactions that support academic success. 
+- Students are constantly exposed to delays and crashes that negatively impacts the trajectory of their course planning and registration. According to EDUCAUSE (2024), student-facing technology should enable intuitive, mobile-friendly interactions that support academic success. 
 - Administrative staff have challenges dealing with course capacities, waitlists, and overrides due to manual processes  
   
 Key challenges are:  
