@@ -12,6 +12,3 @@ Stakeholders play a big part in the decisions we make, and features we implement
 | **Disability Services Coordinator:** Assists disabled students through registration <br> | - Screen readers/assistive technologies<br>- WCAG 2.1 compliance<br>- Flexible registration support for students in-need<br>– Accessibility mode<br>- Integration with accommodation management system <br> | - Mainly affects disabled students more than coordinator<br>- Unifying multiple systems into one<br> |
 | **Financial Aid Director:** Interacts with course reg system to help students who need financial aid<br> | - Automatic aid eligibility checks<br>- Disbursement system integration<br>- Improved compliance reporting<br>- Cost reports during registration<br>- Scholarship system integration<br> | - Benefits financially challenged students<br>- Helps director by unifying systems and automating his work<br> |
 | **Student Success Coordinator:** Finds and helps struggling students<br> | - Automatic detection of struggling students<br>- Internal tool to communicate with students<br>- Data on course grades for students to see<br>- Integrated tutoring support<br> | - Automates parts of their job<br>- Helps struggling students get necessary resources<br> |
-
-  
-**
