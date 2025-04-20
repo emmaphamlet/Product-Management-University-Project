@@ -22,7 +22,7 @@ Key challenges are:
 - No multi-language functionality for international students  
 - Minimal integration with other key academic departments, including financial aid services, student support systems, and academic planning  
 - A lack of reporting tools to track student success and identify at-risk students  
-- Poor mobile responsiveness and low accessibility for disabled students  
+- The system fails to meet accessibility standards such as WCAG 2.1, creating barriers for students with disabilities (World Wide Web Consortium [W3C], 2018).
   
 **Stakeholders Impacted**  
 GSU's poor course registration system has negative impacts on many stakeholders:  
