@@ -5,3 +5,12 @@ The interviews disclosed many complaints, such as freezing systems during peak h
 We used stakeholder mapping to ensure representation across technical, administrative, and student-facing roles. A knowledge board was developed to visualize overlaps and conflicts in needs, while the MoSCoW prioritization technique helped us distinguish between essential and desirable features. These tools, introduced in class, were instrumental in guiding design recommendations for mobile-first interfaces, API-first architecture, automated alerts, and multilingual support.
 
 Our findings are supported by external research, including EDUCAUSE (2024), which identifies seamless, accessible student journeys as a top institutional priority, and U.S. Census data (2022), which validates the need for multi-language functionality.
+
+
+**References**
+
+1. EDUCAUSE. (2024). _2025 EDUCAUSE top 10: Smoothing the student journey_. [https://er.educause.edu/articles/2024/10/2025-educause-top-10-3-smoothing-the-student-journey](https://er.educause.edu/articles/2024/10/2025-educause-top-10-3-smoothing-the-student-journey)
+    
+2. World Wide Web Consortium. (2018). _Web content accessibility guidelines (WCAG) 2.1_. [https://www.w3.org/TR/WCAG21/](https://www.w3.org/TR/WCAG21/)
+    
+3. U.S. Census Bureau. (2022, December 6). _Languages we speak in the United States_. [https://www.census.gov/library/stories/2022/12/languages-we-speak-in-united-states.html](https://www.census.gov/library/stories/2022/12/languages-we-speak-in-united-states.html)
