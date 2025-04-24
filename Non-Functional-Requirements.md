@@ -1,9 +1,9 @@
 
-**## **Requirement: Accessibility and inclusivity****
+## ****Requirement: Accessibility and inclusivity****
 
 **Category:** Usability
 
-**Description: ** The system must comply with WCAG 2.1 Level AA guidelines and support accessibility features like screen reader compatibility, keyboard navigation, and alternative text. It must also support multilingual functionality for at least five non-English languages commonly spoken by GSU students.
+**Description:**  The system must comply with WCAG 2.1 Level AA guidelines and support accessibility features like screen reader compatibility, keyboard navigation, and alternative text. It must also support multilingual functionality for at least five non-English languages commonly spoken by GSU students.
 
 **Business Rationale:** This policy ensures equitable access for all users, particularly students with disabilities and international students, in alignment with GSU's diversity and inclusion goals and legal obligations.
 Acceptance Criteria:
@@ -18,9 +18,9 @@ Acceptance Criteria:
 **Priority:** High — Required for inclusivity, legal compliance, and student satisfaction
   
   
-**## Requirement: System Response Time**
+## **Requirement: System Response Time**
   
-Category: Performance
+**Category:** Performance
   
 **Description:** The system must provide quick and responsive results for users within 2 seconds during typical operating days/hours with up to 5,000 concurrent users during peak registration periods.  
   
@@ -40,7 +40,7 @@ Category: Performance
 **Priority:** High-performance degradation is a frequent pain point among stakeholders.
 ##   
 
-**## Requirement: Uptime and disaster handling**
+## **Requirement: Uptime and disaster handling**
 
 **Category:** Reliability
 
@@ -61,7 +61,7 @@ Category: Performance
 
 **Priority:** This is a High priority because low uptime can affect the schedules and registration experience of thousands of students and has many potential risks associated with a system crash or a large outage during peak usage periods.
   
-## **## Requirement: Secure Authentication and Data **Protection****
+## **Requirement: Secure Authentication and Data Protection**
 
 **Category:** Security
 
@@ -82,7 +82,7 @@ Category: Performance
 
 **Priority:** High — Legal compliance and institutional risk demand rigorous security  
 
-**## Requirement: Integrations with external systems******
+## **Requirement: Integrations with external systems**
 
 **Category:** Interoperability
 
