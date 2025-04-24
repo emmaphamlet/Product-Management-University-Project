@@ -99,4 +99,3 @@ Acceptance Criteria:
 **Verification Method:** Logs are generated at every interaction to ensure reliability and act as receipts in case of lost or missing data. Additionally, thorough unit testing of all interactions between different systems before deployments maintain accuracy and ensure reliability through high-load periods.
 
 **Priority:** High. Without interoperability for a system as interconnected as the university course registration system, the system would fail to update changes in other systems or be unaware of data changes occurring outside of the scope of its control. This could lead to financial issues, course scheduling conflicts, classroom conflicts, etc. This aspect of the system carries high risk, especially with payment and financial aid systems, and therefore carries an extremely high priority level.
-**
