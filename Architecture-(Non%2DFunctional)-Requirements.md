@@ -142,7 +142,7 @@ This page outlines and defines the non-functional requirements (NFRs) for the Mo
     
 *   Enable auto-scaling
     
-*   Cloud provider uses less than or equal to 70% of renewable energy
+*   Cloud provider uses at least 70% renewable energy
     
   
 **Acceptance Criteria:**
