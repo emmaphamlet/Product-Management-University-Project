@@ -150,7 +150,7 @@ This page outlines and defines the non-functional requirements (NFRs) for the Mo
 
 *   Successfully implements auto-scaling
     
-*   Includes annual review of of energy and carbon footprint metrics
+*   Includes annual review of energy and carbon footprint metrics
     
 *   Hosted on a cloud platform with defined and published sustainability metrics
     
