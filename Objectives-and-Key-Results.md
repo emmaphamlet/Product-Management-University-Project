@@ -52,4 +52,3 @@ Key Results:
     
 4.  Teach 100% of administrative staff by using interactive modules and measure final completion/comprehension scores above 85%
     
-**
