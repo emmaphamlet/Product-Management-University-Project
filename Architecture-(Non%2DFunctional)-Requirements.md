@@ -146,3 +146,39 @@ This page outlines and defines the non-functional requirements (NFRs) for the Mo
     
   
 **Acceptance Criteria:**
+
+
+*   Successfully implements auto-scaling
+    
+*   Includes annual review of of energy and carbon footprint metrics
+    
+*   Hosted on a cloud platform with defined and published sustainability metrics
+    
+
+## 6.  Standards and Compliance Needs
+---
+  
+**NFR-006: Regulatory and Accessibility Compliance**
+  
+**Description:** The system must comply with all legal, accessibility, and institutional standards to protect sensitive data and maintain equitable access.
+  
+**Rationale:** Compliance with FERPA, GDPR, HIPAA, and WCAG 2.1 AA is crucial to ensuring privacy, security, and inclusivity, which are all basic foundations for user trust.
+  
+**Metrics:**
+  
+*   100% alignment with FERPA, HIPAA, and GDPR
+    
+*   At least 95% success rate in WCAG 2.1 AA accessibility audits
+    
+*   All system documentation demonstrates compliance controls
+    
+  
+**Acceptance Criteria:**
+  
+*   Annual audit confirms full compliance
+    
+*   Accessibility testing passes WCAG benchmarks
+    
+*   System updates do not result in regressions in compliance
+    
+  
