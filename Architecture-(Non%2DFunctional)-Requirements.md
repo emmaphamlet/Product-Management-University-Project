@@ -79,7 +79,7 @@ This page outlines and defines the non-functional requirements (NFRs) for the Mo
   
 **Description:** The system must sustain high availability at all times, be easily accessible, and recover quickly from unexpected outages.
   
-**Rationale:** High availability is crucial during peak periods like course registration and finals is crucial because without it, student, faculty, and staff satisfaction may decrease significantly since they won’t be able to efficiently complete their tasks.
+**Rationale:** High availability is crucial during peak periods like course registration and finals because without it, student, faculty, and staff satisfaction may decrease significantly since they won’t be able to efficiently complete their tasks.
   
 **Metrics:**
   
@@ -120,7 +120,7 @@ This page outlines and defines the non-functional requirements (NFRs) for the Mo
 **Acceptance Criteria:**  
   
 
-*   All APIs are document and include a full set of automated integration tests
+*   All APIs are documented and include a full set of automated integration tests
     
 *   The system successfully integrates with all other major university and external systems
     
