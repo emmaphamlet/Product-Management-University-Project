@@ -2,47 +2,62 @@ This section outlines the feature prioritization method, product roadmap, releas
 
 #### Prioritization Method
 
-We applied the MoSCoW method to classify features into "Must Have," "Should Have," "Could Have," and "Won't Have" for this release. The prioritization reflects system impact, stakeholder urgency, technical feasibility, and university constraints.
+For this release, we applied the MoSCoW method to classify features into "Must Have," "Should Have," "Could Have," and "Won’t Have." The prioritization reflects system impact, stakeholder urgency, technical feasibility, and university constraints.
 
 #### Product Roadmap
 
-**Release 1: Core Registration (Q1 2026)**
-*   **Goals**: Enable basic functionality for course registration.
+| Feature/Capability | Q3 2025: MVP | Q4 2025: Improvements | Q1 2026: Version 1.1 |
+| --- | --- | --- | --- |
+| Automated Waitlist Management | ✓ |  |  |
+| Advisor Dashboard |  | ✓ |  |
+| Connected with External Integrations |  | ✓ |  |
+| Real-time Course Availability Tracker |  |  | ✓ |
+**Goals:**
+*   Core functionalities implemented
     
-*   **Features**: Course search, schedule builder, enrollment engine
+*   Enable course searching and registering
     
-*   **Success Metrics**:
-    *   95% user acceptance test (UAT) pass rate
-        
-    *   System handles 3,000+ concurrent users with <2s response
-        
-*   **Tasks**: Finalize frontend UI, link to SIS, run performance tests
+*   Faculty dashboards (IT, Advisor, Administrator) complete
     
-**Release 2: Dashboards & Automation (Q2 2026)**
-*   **Goals**: Improve advising and IT capabilities
+*   Accessibility compliance and mobile-design complete
     
-*   **Features**: Advisor dashboard, waitlist automation, IT system monitoring
+*   Complete integrations, refine user experience, fine-tune performance
     
-*   **Success Metrics**:
-    *   50% drop in manual overrides
-        
-    *   Advisor satisfaction >90%
-        
-*   **Tasks**: Data integration, staff training, interface refinement
+**Success Metrics:**
+*   Schedule building and registering is possible
     
-**Release 3: Mobile and Accessibility (Q3 2026)**
-*   **Goals**: Expand usability and inclusion
+*   Searching and registering courses are <2 second transactions
     
-*   **Features**: Responsive mobile UI, multilingual support, WCAG 2.1 compliance
+*   Support for 3 languages besides English
     
-*   **Success Metrics**:
-    *   95% pass rate on accessibility audits
-        
-    *   Positive feedback from international/disabled users
-        
-*   **Tasks**: Device testing, accessibility audits, content localization
+*   Relevant stakeholders are able to use the app in any necessary fashion
+    
+*   Mock-stress tests perform as expected
+    
+*   No crashes of system under load
+    
+*   <5 second response time for any operation under any system load
+    
+**Supporting Tasks:**
+*   Define data privacy policies and authentication structure
+    
+*   Migrate course data and student accounts
+    
+*   Plan integration points with SIS, LMS, and other information systems
+    
+*   Develop notification engine for waitlist updates
+    
+*   Integrate with services for degree audits, financial systems, and accommodations
+    
+*   Conduct simulated load testing during peak registration periods
+    
+*   Collect feedback from early users and advisory boards
+    
+*   Conduct user testing and stakeholder onboarding workshops
     
 
 #### Release Strategy
 
-Releases are sequenced to maximize student benefit early and add administrative power and inclusivity progressively. MVP (Release 1) is the foundation; Releases 2 and 3 add refinement and reach.
+Releases are sequenced to maximize core value early (Q3 2025), refine user experience (Q4 2025), and finalize high-precision functionality (Q1 2026).
+
+* * *
