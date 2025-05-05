@@ -41,4 +41,3 @@ The new course registration system aligns with and supports GSU’s strategic go
     
 *   Providing continuous value with scalable software which will support the university’s growing needs many years after initial development
     
-**
