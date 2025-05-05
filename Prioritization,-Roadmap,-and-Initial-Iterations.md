@@ -4,6 +4,23 @@ This section outlines the feature prioritization method, product roadmap, releas
 
 For this release, we applied the MoSCoW method to classify features into "Must Have," "Should Have," "Could Have," and "Won’t Have." The prioritization reflects system impact, stakeholder urgency, technical feasibility, and university constraints.
 
+#### Prioritization Approach
+
+Our team conducted a prioritization workshop using MoSCoW with stakeholder input gathered from interviews and surveys. We evaluated each capability based on three core dimensions: 1) how essential the feature is for functional operation (core vs. auxiliary), 2) the number and type of stakeholders it affects, and 3) the technical and timeline feasibility. We prioritized items that addressed critical pain points in the current system (e.g., registration speed, waitlisting) and those that had immediate benefits to most users.
+
+#### Rationale for Feature Priority
+
+We prioritized the features in this sequence:
+1.  **Automated Waitlist Management** – Addresses a top student complaint and reduces manual intervention.
+    
+2.  **Advisor Dashboard**: This tool enables better planning and reduces errors in advising, significantly impacting faculty workflow.
+    
+3.  **External Integrations** – Required to ensure real-time synchronization with SIS and other services.
+    
+4.  **Real-time Course Availability Tracker** – A valuable refinement that enhances transparency but is not required for initial launch.
+    
+The rationale is to first roll out foundational and high-impact functionality, followed by features that enhance usability and administrative reach.
+
 #### Product Roadmap
 
 | Feature/Capability | Q3 2025: MVP | Q4 2025: Improvements | Q1 2026: Version 1.1 |
@@ -55,9 +72,6 @@ For this release, we applied the MoSCoW method to classify features into "Must H
     
 *   Conduct user testing and stakeholder onboarding workshops
     
-
-#### Release Strategy
-
 Releases are sequenced to maximize core value early (Q3 2025), refine user experience (Q4 2025), and finalize high-precision functionality (Q1 2026).
 
 * * *
