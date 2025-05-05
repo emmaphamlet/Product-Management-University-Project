@@ -1,39 +1,82 @@
 This section identifies key risks, assumptions, and dependencies that affect system delivery.
 
-#### Risks and Mitigation
 
-1.  **Server overload during registration** – _Mitigation_: Implement load testing and auto-scaling cloud infrastructure.
-    
-2.  **Low adoption due to UI change** – _Mitigation_: Provide in-app tutorials and launch webinars.
-    
-3.  **Integration failure with SIS or LMS** – _Mitigation_: Establish early API contracts and testing sandboxes.
-    
-4.  **Security breaches or FERPA non-compliance** – _Mitigation_: Perform quarterly audits and enforce role-based access.
-    
-5.  **Accessibility non-compliance** – _Mitigation_: Partner with accessibility consultants during design and test with diverse users.
-    
+## Risks, Assumptions, and Dependencies -
 
-#### Key Assumptions
-
-1.  Students and faculty have reliable internet access.
+### Risks
+1.  System overload during peak registration:
     
-2.  GSU IT will provide technical support during deployment.
+*   Description: Heavy system traffic can potentially crash the system.
     
-3.  All third-party systems offer documented APIs.
+*   Mitigation: To mitigate this, we plan to conduct load testing quarterly and we’ll use auto-scaling on cloud infrastructure to maintain performance.
     
-4.  Mobile access is critical due to high student device usage.
+2.  Low adoption due to UI unfamiliarity:
     
-5.  University registration dates will remain fixed as scheduled.
+*   Description: The new interface may take some time to adjust to, so students and faculty may struggle with the usability of it at first.
     
-
-#### Dependencies
-
-1.  **SIS** – Required for real-time course and student data.
+*   Mitigation: With sufficient support, like offering in-app tutorials, training webinars, and other helpful resources, this issue can be mitigated.
     
-2.  **Notification APIs** – Needed for waitlist messages via email/SMS.
+3.  Failure to successfully integrate SIS/LMS:
     
-3.  **Cloud hosting** – Platform for uptime and autoscaling (e.g., Azure).
+*   Description: If these two applications don’t sync properly, it may cause registration errors among students/faculty
     
-4.  **Accessibility tools** – Tools like Axe/WAVE for WCAG validation.
+*   Mitigation: Utilize more API contracts and do sandbox testing prior to launch.
     
-5.  **University IT department** – Support deployment, patching, and operational handoff.
+4.  Security breaches or FERPA violations:
+    
+*   Description: Unauthorized access can compromise student data.
+    
+*   Mitigation: Ensure that there is strong encryption and perform regularly scheduled security audits.
+    
+5.  Accessibility gaps:
+    
+*   Description: Gaps in compliance for accessibility can make it difficult for students with disabilities to thrive in an academic environment.
+    
+*   Mitigation: Conduct quarterly usability testing and collaborate with accessibility experts to ensure that standards are being met.
+    
+### Assumptions
+1.  Users have internet access and personal devices
+    
+*   Impact: The system is heavily reliant on web-based access.
+    
+*   Rationale: Most students and faculty access digital services on a laptop, using the internet, regularly.  
+      
+    
+2.  GSU  IT will support system deployment:
+    
+*   Impact: Without active collaboration from the IT department, deployment may be significantly delayed.
+    
+*   Rationale: IT’s cooperation and role is crucial for all university-wide tech releases.  
+      
+    
+3.  APIs are available and stable:
+    
+*   Impact: Data flow from SIS/LMS is important for real-time updates
+    
+*   Rationale: This is a modern system and it is expected that we are able to provide documentation.
+    
+      4.  Users have a basic level of tech literacy:
+*   Impact: The interface is designed for independent use without comprehensive onboarding.
+    
+*   Rationale: Most students/staff are already familiar with digital systems at the university.
+    
+      5. Registration dates continuously remain fixed:
+*   Impact: System configuration and testing are largely dependent on known deadlines.
+    
+*   Rationale: Academic calendars are stringent and rarely change.  
+      
+    
+### Dependencies
+1.  SIS (Student Information System): Required for real-time student and course data exchange.  
+      
+    
+2.  Email/SMS gateway providers: Needed for automated waitlist and notification functionality.  
+      
+    
+3.  Cloud hosting platform (e.g., Azure/AWS): Required for deployment and scaling.  
+      
+    
+4.  Accessibility testing tools: Necessary to validate WCAG 2.1 compliance.  
+      
+    
+5. University IT operations: Required for support, uptime monitoring, and incident response.  
