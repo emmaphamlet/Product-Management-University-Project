@@ -6,13 +6,13 @@ This section identifies key risks, assumptions, and dependencies that affect sys
 ### Risks
 1.  System overload during peak registration:
     
-*   Description: Heavy system traffic can potentially crash the system.
+*   Description: Heavy system traffic can crash the system.
     
 *   Mitigation: To mitigate this, we plan to conduct load testing quarterly and we’ll use auto-scaling on cloud infrastructure to maintain performance.
     
 2.  Low adoption due to UI unfamiliarity:
     
-*   Description: The new interface may take some time to adjust to, so students and faculty may struggle with the usability of it at first.
+*   Description: The new interface may take some time to adjust to, so students/faculty may struggle with the usability of it at first.
     
 *   Mitigation: With sufficient support, like offering in-app tutorials, training webinars, and other helpful resources, this issue can be mitigated.
     
@@ -30,7 +30,7 @@ This section identifies key risks, assumptions, and dependencies that affect sys
     
 5.  Accessibility gaps:
     
-*   Description: Gaps in compliance for accessibility can make it difficult for students with disabilities to thrive in an academic environment.
+*   Description: Gaps in compliance for accessibility makes it difficult for students with disabilities to thrive in an academic environment.
     
 *   Mitigation: Conduct quarterly usability testing and collaborate with accessibility experts to ensure that standards are being met.
     
