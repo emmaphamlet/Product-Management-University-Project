@@ -3,6 +3,7 @@
 Based on our research and stakeholder analysis, we have identified the following necessary features for the new rendition of the GSU course registration system.
   
 These features are designed to address key needs and support the goals of our university, including empowerment of students and faculty with digital systems to enable academic success, commitment to diversity and inclusion, and modernization of university’s architecture for future growth.
+
 **1. Course Searching**
 *   Description: Enables GSU students to search courses from the university course database to provide updated information on courses.
     
