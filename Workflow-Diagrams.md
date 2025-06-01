@@ -12,3 +12,10 @@ This diagram is linked to Epic 20 whose aim is to encapsulate and enable student
 ![Flowchart - WorkFlow Diagram_ Enable Seamless Student Course Registration.jpg](/.attachments/Flowchart%20-%20WorkFlow%20Diagram_%20Enable%20Seamless%20Student%20Course%20Registration-2d0acc20-1ba9-4cc2-ae4c-c4c8325cdce0.jpg)
 
 **Diagram 2: Automated Waitlist Notification System**
+
+#29
+
+[Diagram 2 Miro Link](https://miro.com/app/board/uXjVI1Dniyo=/?moveToWidget=3458764630371663278&cot=14)
+
+This diagram is linked to Epic 29 whose aim is to enable a feature for students to sign up for a waitlist on full courses so they can receive notifications when a spot opens without needing to constantly check for open spots. This diagram shows this workflow by honing in on the waitlist portion of the course registration workflow. This includes sighing up for a waitlist, getting notified when a spot is open on one of your waitlisted courses, and dropping courses to open up spots for others. These actions are all displayed on the diagram to create a circular pattern as all operations completed by students affect other students. Out-of-scope workflows are linked here to reduce complexity of this workflow such as the process of actually registering for a course or searching for a course. This diagram essentially sits in the middle of the course registration epic, however, adds complexity and affords a different feature resulting in it being represented through a separate workflow diagram.
+![Flowchart - WorkFlow Diagram_ Automated Waitlist Notification System (1).jpg](/.attachments/Flowchart%20-%20WorkFlow%20Diagram_%20Automated%20Waitlist%20Notification%20System%20(1)-a8d2c799-4c04-484b-88f4-04d37a2f1ebc.jpg)
