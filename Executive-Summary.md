@@ -1,7 +1,8 @@
 **Executive Summary**
       
 Global State University’s course registration system is critical to student and faculty operations. However, the current system—developed over 20 years ago—no longer meets the needs of over 48,000 users. It suffers from performance issues during peak periods, lacks tools for faculty advising and planning, and offers limited support for accessibility and modern usability features, particularly affecting minority and underserved students.
-The proposed **Modern Course Registration System** will replace this outdated infrastructure with a scalable, user-focused platform. It aims to enhance the registration process for students while equipping faculty with advanced tools to support academic success. Our solution is grounded in four priorities:
+
+The proposed Modern Course Registration System* will replace this outdated infrastructure with a scalable, user-focused platform. It aims to enhance the registration process for students while equipping faculty with advanced tools to support academic success. Our solution is grounded in four priorities:
 
 
 ·       **Performance:** Improved system uptime and fast response times ensure a smooth, reliable experience.
