@@ -3,68 +3,65 @@ This section identifies key risks, assumptions, and dependencies that affect sys
 
 ## Risks, Assumptions, and Dependencies -
 
-### Risks
+# Risks
 
-1. System overload during peak registration:
-   - Description: Heavy system traffic can crash the system.
-   - Mitigation: To mitigate this, we plan to conduct load testing quarterly and we’ll use auto-scaling on cloud infrastructure to maintain performance.
+**1. System overload during peak registration:**
+*   _Description:_ Heavy system traffic can crash the system.
+    
+*   _Mitigation:_ To mitigate this, we plan to conduct load testing quarterly and we’ll use auto-scaling on cloud infrastructure to maintain performance.
+
+**2. Low adoption due to UI unfamiliarity:**
+*   _Description:_ The new interface may take some time to adjust to, so students/faculty may struggle with the usability of it at first.
+    
+*   _Mitigation:_ With sufficient support, like offering in-app tutorials, training webinars, and other helpful resources, this issue can be mitigated.
+ 
+**3. Failure to successfully integrate SIS/LMS:**
+*   _Description:_ If these two applications don’t sync properly, it may cause registration errors among students/faculty.
+    
+*   _Mitigation:_ Utilize more API contracts and do sandbox testing prior to launch.
  
     
-2.  Low adoption due to UI unfamiliarity:
-    * Description: The new interface may take some time to adjust to, so students/faculty may struggle with the usability of it at first.
+**4. Security breaches or FERPA violations:**
+*   _Description:_ Unauthorized access can compromise student data.
     
-    *   Mitigation: With sufficient support, like offering in-app tutorials, training webinars, and other helpful resources, this issue can be mitigated.
+*   _Mitigation:_ Ensure that there is strong encryption and perform regularly scheduled security audits.    
+
+**5. Accessibility gaps:**
+*   _Description:_ Gaps in compliance for accessibility makes it difficult for students with disabilities to thrive in an academic environment.
     
-3.  Failure to successfully integrate SIS/LMS:
-    - Description: If these two applications don’t sync properly, it may cause registration errors among students/faculty
+*   _Mitigation:_ Conduct quarterly usability testing and collaborate with accessibility experts to ensure that standards are being met.
     
-    *   Mitigation: Utilize more API contracts and do sandbox testing prior to launch.
+# Assumptions
+
+**1. Users have internet access and personal devices**
+*   _Impact:_ The system is heavily reliant on web-based access.
     
-4.  Security breaches or FERPA violations:
-    
-    *   Description: Unauthorized access can compromise student data.
-    
-    *   Mitigation: Ensure that there is strong encryption and perform regularly scheduled security audits.
-    
-5.  Accessibility gaps:
-    
-    *   Description: Gaps in compliance for accessibility makes it difficult for students with disabilities to thrive in an academic environment.
-    
-    *   Mitigation: Conduct quarterly usability testing and collaborate with accessibility experts to ensure that standards are being met.
-    
-### Assumptions
-1.  Users have internet access and personal devices
-    
-    *   Impact: The system is heavily reliant on web-based access.
-    
-    *   Rationale: Most students and faculty access digital services on a laptop, using the internet, regularly.  
+*   _Rationale:_ Most students and faculty access digital services on a laptop, using the internet, regularly.
       
     
-2.  GSU  IT will support system deployment:
+**2. GSU IT will support system deployment**
+*   _Impact:_ Without active collaboration from the IT department, deployment may be significantly delayed.
     
-    *   Impact: Without active collaboration from the IT department, deployment may be significantly delayed.
-    
-    *   Rationale: IT’s cooperation and role is crucial for all university-wide tech releases.  
+*   _Rationale:_ IT’s cooperation and role is crucial for all university-wide tech releases.
       
     
-3.  APIs are available and stable:
+**3. APIs are available and stable**
+*   _Impact:_ Data flow from SIS/LMS is important for real-time updates.
     
-    *   Impact: Data flow from SIS/LMS is important for real-time updates
+*   _Rationale:_ This is a modern system and it is expected that we are able to provide documentation.
     
-    *   Rationale: This is a modern system and it is expected that we are able to provide documentation.
+**4. Users have a basic level of tech literacy**
+*   _Impact:_ The interface is designed for independent use without comprehensive onboarding.
     
-4. Users have a basic level of tech literacy:
-   *    Impact: The interface is designed for independent use without comprehensive onboarding.
+*   _Rationale:_ Most students/staff are already familiar with digital systems at the university.
     
-   *   Rationale: Most students/staff are already familiar with digital systems at the university.
+**5. Registration dates continuously remain fixed**
+*   _Impact:_ System configuration and testing are largely dependent on known deadlines.
     
-5. Registration dates continuously remain fixed:
-   *   Impact: System configuration and testing are largely dependent on known deadlines.
-    
-   *   Rationale: Academic calendars are stringent and rarely change.  
+*   _Rationale:_ Academic calendars are stringent and rarely change.
       
-    
-### Dependencies
+##     
+# Dependencies
 - SIS (Student Information System): Required for real-time student and course data exchange.  
       
     
