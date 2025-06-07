@@ -1,7 +1,7 @@
 **Objective 1: Roll out a fully functional course registration system before Q2 of 2026.**
 Key Results:
   
-1.  Complete all development and deployment processes by March 31, 2026
+1.  Deploy MVP core features including student login, course search, course registration, and waitlist management by March 31, 2026
     
 2.  Pass all user acceptance testing with a success rate of 95% or higher
     
