@@ -23,3 +23,8 @@ After reviewing the feedback we received on Milestone 2, we made some revision
 
 **3. Risks, Assumptions, and Dependencies**
 *   **Adjusted visual formatting** to properly indent nested bullet points for improved readability. This was a minor presentation fix based on TA feedback.
+
+**4. Roadmap**
+*  **Added more specificity** to roadmap by including all 8 features main features to implement rather than only 3. This allowed us to get more indepth with the roadmap and show in more detail what each iteration and quarter would offer in terms of feature rollout goals, and other supporting tasks.
+* **Broader goals focus** to show what accomplishments should be occuring each quarter rather than focusing on what each feature's goals should be in that quarter to give a more broadstroke overview of the development process
+* **Timeline and overview modification** to better align with real development cycles and to give a more accurate estimate of development time and how feature rollout would occur chronologically
