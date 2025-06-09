@@ -28,3 +28,33 @@ After reviewing the feedback we received on Milestone 2, we made some revision
 *  **Added more specificity** to roadmap by including all 8 features main features to implement rather than only 3. This allowed us to get more indepth with the roadmap and show in more detail what each iteration and quarter would offer in terms of feature rollout goals, and other supporting tasks.
 * **Broader goals focus** to show what accomplishments should be occuring each quarter rather than focusing on what each feature's goals should be in that quarter to give a more broadstroke overview of the development process
 * **Timeline and overview modification** to better align with real development cycles and to give a more accurate estimate of development time and how feature rollout would occur chronologically
+
+**5. Data Flow Diagram*
+![截屏2025-06-08 下午10.41.41.png](/.attachments/截屏2025-06-08%20下午10.41.41-b8adc89b-fe45-42d2-840d-c76d82df4951.png)
+**Data Flow Diagram (DFD) Enhancements**
+*   **Decomposed Level 0 process into Level 1 subprocesses**  
+    Split the original “Search and Filter Courses” process into clearly defined subprocesses:
+    *   1.1 Receive Search Request
+        
+    *   1.3 Match Against Preferences
+        
+    *   2.1 Save to My Plan
+        
+    *   3.1 Submit Plan to Advisor
+        
+    *   3.2 Advisor Feedback
+        
+*   **Added advisor interaction and feedback loop**  
+    Introduced a new external entity, “Advisor,” and added processes 3.1 and 3.2 to reflect realistic student-advisor planning behavior. This better supports academic guidance and approval workflows.
+    
+*   **Integrated new data store: My Plan**  
+    Added “My Plan” as a data storage layer to support course saving and advisor review workflows, clarifying how student choices are persisted and shared.
+    
+*   **Clarified and restructured data flows**  
+    Improved clarity by relabeling flows (e.g., “Save to Plan,” “Course Selection,” “Feedback”) and making directional logic more explicit.
+    
+*   **Replaced inferred logic with user-defined preferences**  
+    “Filter Criteria” and “User Preferences” are now separate from “Course Catalog,” showing more precise filtering driven by student input rather than embedded in system logic.
+    
+*   **Improved labeling and visual hierarchy**  
+    Renamed and standardized terminology in the diagram for consistency across the Vision & Scope document. Also adjusted layout for better directional flow and readability.
