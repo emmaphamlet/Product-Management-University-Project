@@ -29,7 +29,7 @@ After reviewing the feedback we received on Milestone 2, we made some revision
 * **Broader goals focus** to show what accomplishments should be occuring each quarter rather than focusing on what each feature's goals should be in that quarter to give a more broadstroke overview of the development process
 * **Timeline and overview modification** to better align with real development cycles and to give a more accurate estimate of development time and how feature rollout would occur chronologically
 
-**5. Data Flow Diagram*
+**5. Data Flow Diagram**
 ![截屏2025-06-08 下午10.41.41.png](/.attachments/截屏2025-06-08%20下午10.41.41-b8adc89b-fe45-42d2-840d-c76d82df4951.png)
 **Data Flow Diagram (DFD) Enhancements**
 *   **Decomposed Level 0 process into Level 1 subprocesses**  
