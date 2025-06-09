@@ -19,7 +19,7 @@ After reviewing the feedback we received on Milestone 2, we made some revision
         
     *   The data fields used for department vs. university comparisons (e.g., course fill rate, enrollment totals, course completion statistics).
         
-*   Change made in response to TA feedback requesting greater specificity for this component of the OKR Key Result.
+*   Change made in response to TA feedback requesting greater specificity.
 
 **3. Risks, Assumptions, and Dependencies**
 *   **Adjusted visual formatting** to properly indent nested bullet points for improved readability. This was a minor presentation fix based on TA feedback.
