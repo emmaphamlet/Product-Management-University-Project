@@ -38,40 +38,34 @@ Key elements include:
 This DFD demonstrates how the system supports high-performance search and filtering, aligning with Epic #20’s goal of seamless student course registration. The diagram clarifies the system’s logical data flow, emphasizing how user preferences and course data interact to deliver filtered search results.![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeZWKqNQFz26YoeDuLQlq_yanvEudutx70EDqjaEACdCdrlusyiCbvqC-5m45mRkr0CDUFiA8RiTzU7vNdsmChwJuZGF-ozPnhYw5657sSiO3kljBRW1n8vgSu2DIWeFB5uhGSCaA?key=CCY4zK8XX7j-YndUtNuULQ)
   
   
-DFD Summary for Waitlist for Full Classes 
-(User Story #53)
-This Data Flow Diagram (DFD) depicts the process through which students at GSU are automatically added to a course waitlist when a class is full, ensuring they don’t miss enrollment opportunities.
-Key elements include:
-*   External Entity: Student submits a registration request and receives confirmation and waitlist status updates.  
-      
+![截屏2025-06-08 下午11.15.19.png](/.attachments/截屏2025-06-08%20下午11.15.19-3dd0cd73-0c3e-4851-aa87-f2f17106889a.png)DFD 
+### **DFD Summary for Waitlist for Full Classes**
+
+_(User Story 53: As a student, I want to be waitlisted for full classes so that I don't miss a chance to enroll.)_
+This Level 1 Data Flow Diagram (DFD) depicts how students at GSU are automatically added to a course waitlist when a class is full, ensuring they don’t miss enrollment opportunities. The diagram expands the basic waitlist automation logic, including advisor manual intervention and structured student notification processes.
+
+####  Key elements include:
+
+**External Entities:**
+*   **Student**: Submits a registration request and receives confirmation and waitlist status updates.
     
-*   Processes:  
-      
+*   **Advisor**: Assists in special cases by manually reviewing and updating waitlist records when needed.
     
-    *   Submit Registration Request: Processes student’s registration request.  
-          
-        
-    *   Check Availability: Checks course capacity using Course Catalog data.  
-          
-        
-    *   Add to Waitlist: Automatically adds student to waitlist if the course is full.  
-          
-        
-    *   Notify Student: Sends confirmation emails and waitlist status updates to the student.  
-          
-        
-*   Data Stores:  
-      
+**Processes:**
+*   **1.1 Submit Registration Request**: Captures and processes the student’s registration request.
     
-    *   Course Catalog: Stores course capacity and availability data.  
-          
-        
-    *   Waitlist Records: Stores waitlist entries, timestamps, and student information.  
-          
-        
-*   Data Flows: Include registration requests, course data, waitlist entries, confirmation emails, and waitlist statuses.  
-      
+*   **1.2 Add to Waitlist**: Checks course availability using data from the Course Catalog. If the course is full, the student is added to the waitlist based on a timestamp.
     
-This DFD captures the waitlist management functionality’s logical flow, highlighting the system’s ability to handle course capacity checks, waitlist entry management, and timely notifications. It supports Epic #20’s goals of streamlining registration workflows and improving user experience.
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdAY1Exqpssc9SiIoa0zyXMWDCmm9632i_1agJCQ5HFRxY55RPLn6l9JgflXbE4qCF_PzYsEMESvZuA64fphtJfsCVCGc5bvQ0_AmpMYthkSuiyB4apHhEoay4E-t0iHv1sc1A18w?key=CCY4zK8XX7j-YndUtNuULQ)
-**
+*   **1.3 Notify Student**: Displays waitlist status in the student interface and triggers feedback loop.
+    
+*   **1.4 Send Email Notification**: Sends a confirmation email to the student within 1 minute of waitlist entry.
+    
+*   **1.5 Advisor Manual Notification**: Advisor intervenes when escalated and may notify students directly or update waitlist records.
+    
+**Data Stores:**
+*   **Course Catalog**: Stores up-to-date course capacity and enrollment data.
+    
+*   **Waitlist Records**: Stores waitlist entries, timestamps, student data, and manual overrides if applicable.
+    
+**Data Flows:**  
+Include registration requests, course data queries, timestamped waitlist entries, student status updates, advisor input, and automated email confirmations.
