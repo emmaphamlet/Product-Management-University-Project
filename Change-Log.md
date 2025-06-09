@@ -58,3 +58,32 @@ After reviewing the feedback we received on Milestone 2, we made some revision
     
 *   **Improved labeling and visual hierarchy**  
     Renamed and standardized terminology in the diagram for consistency across the Vision & Scope document. Also adjusted layout for better directional flow and readability.
+
+![截屏2025-06-08 下午11.15.19.png](/.attachments/截屏2025-06-08%20下午11.15.19-2f252ff9-f657-4bf5-8a70-e8db052d3fcb.png)
+**Data Flow Diagram (DFD) Enhancements – Waitlist for Full Classes**
+*   **Decomposed Level 0 process into Level 1 subprocesses**  
+    Split the original high-level waitlist functionality into clearly defined subprocesses:
+    *   1.1 Submit Registration Request
+        
+    *   1.2 Add to Waitlist
+        
+    *   1.3 Notify Student
+        
+    *   1.4 Send Email Notification
+        
+    *   1.5 Advisor Manual Notification
+        
+*   **Added advisor interaction and manual intervention support**  
+    Introduced a new external entity, “Advisor,” and process 1.5 to reflect manual handling of escalated waitlist cases. This acknowledges scenarios where advisor input is necessary to override or clarify waitlist status.
+    
+*   **Integrated new data store: Waitlist Records**  
+    Added a dedicated “Waitlist Records” data store to log student entries, timestamps, advisor adjustments, and notification status. This enables traceability and audit readiness.
+    
+*   **Expanded and separated notification flows**  
+    Divided student communication into two processes: 1.3 handles in-system waitlist status updates, and 1.4 handles timed confirmation emails. This reflects a multi-channel communication strategy and ensures compliance with NFRs.
+    
+*   **Refined data flow logic for automation and escalation**  
+    Relabeled data flows to clearly distinguish between registration input, system-determined actions, and advisor-triggered responses (e.g., “Escalated Waitlist Review,” “Status Update”).
+    
+*   **Standardized terminology and layout for consistency**  
+    Harmonized process labels and entity names with other DFDs in the system (e.g., using consistent naming for "Student", "Advisor", and "Course Catalog") to improve readability and maintain consistency across the Vision & Scope documentation.
