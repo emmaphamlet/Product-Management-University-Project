@@ -1,3 +1,9 @@
+---
+layout: default
+title: User Interfaces (Wireframes)
+---
+
+
 **User Interfaces (Wireframes)**
 
 We have designed a few wireframes to demonstrate our vision and functionality for our updated modern GSU course registration website. The user interfaces we have created are provided below:
