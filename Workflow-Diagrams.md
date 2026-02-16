@@ -1,3 +1,7 @@
+---
+title: Workflow-Diagrams
+---
+
 **Workflow Diagrams**
 
 We have made workflow diagrams to model user workflows of common tasks will be completed on the course registration system. The diagrams we have created are shown below:

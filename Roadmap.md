@@ -1,3 +1,7 @@
+---
+title: Roadmap
+---
+
 **
 
 | Feature / Capability<br> | Q3 2025: Skeleton and Development<br> | Q4 2025: MVP<br> | Q1 2026: Feature Expansion<br> | Q2 2026: Internal tooling and external connections<br> | Q3 2026: Version 1.1 Released and Onboarding<br> |

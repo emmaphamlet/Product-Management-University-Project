@@ -1,3 +1,7 @@
+---
+title: Current-State-Analysis
+---
+
 Global State University (GSU), is a large public research university with approximately 45,000 students. For such a large institution, an easy-to-use, effective, and dependable registration system is of the highest priority in maintaining student success and ensuring smooth academic operation.
 
 But currently, GSU is facing problems with their outdated registration system.

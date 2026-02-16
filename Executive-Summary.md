@@ -1,3 +1,7 @@
+---
+title: Executive-Summary
+---
+
 **Executive Summary**
       
 Global State University’s course registration system is critical to student and faculty operations. However, the current system—developed over 20 years ago—no longer meets the needs of over 48,000 users. It suffers from performance issues during peak periods, lacks tools for faculty advising and planning, and offers limited support for accessibility and modern usability features, particularly affecting minority and underserved students.

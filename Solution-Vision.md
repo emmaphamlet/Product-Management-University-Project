@@ -1,3 +1,7 @@
+---
+title: Solution-Vision
+---
+
 Global State University (GSU) has been facing challenges with its outdated course registration system that is no longer able to keep up with its massive student and faculty population.
 
 Our new system will modernize GSU’s existing system to create a platform which meets the needs of the GSU community and enables them to focus their full potential on their thriving careers and academics.

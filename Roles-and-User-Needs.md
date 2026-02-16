@@ -1,3 +1,7 @@
+---
+title: Roles-and-User-Needs
+---
+
 This section defines the primary roles interacting with the course registration system and details their goals, skills, work context, and needs. These role-based personas are derived from our stakeholder interviews and support the project objectives through user-centric design.
 
 ## #### Undergraduate Student

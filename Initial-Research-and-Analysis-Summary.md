@@ -1,3 +1,7 @@
+---
+title: Initial-Research-and-Analysis-Summary
+---
+
 For the design and scope definition of Global State University's (GSU) new course registration system, we interviewed stakeholders, analyzed institution documentation, and researched industry standards and best practices. During semi-structured interviews, our strategy revolved around collecting granular input from different user roles—namely undergraduate students, advisors, administrators, and IT staff.
 
 The interviews disclosed many complaints, such as freezing systems during peak hours, lack of adaptive pages for mobile devices, minimal accessibility, and incompatibility with financial aid, degree audits, and visa compliance tools. The Disability Services Coordinator, for instance, highlighted the fact that the system does not comply with WCAG 2.1 accessibility standards, and the Financial Aid Director mentioned registration-related delays because the system lacks real-time eligibility verification. Students showed that they are stressed because they do not understand how the waitlist works and early morning registration gives them no options.

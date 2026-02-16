@@ -1,3 +1,7 @@
+---
+title: Out-of-Scope
+---
+
 # Out of Scope
   
 Deliverables and other items that will be considered out of scope in this project, include:

@@ -1,3 +1,7 @@
+---
+title: Objectives-and-Key-Results
+---
+
 **Objective 1: Roll out a fully functional course registration system before Q2 of 2026.**
 Key Results:
   

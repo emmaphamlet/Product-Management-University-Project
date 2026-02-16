@@ -1,3 +1,7 @@
+---
+title: Change-Log
+---
+
 **Change Log**
   
 After reviewing the feedback we received on Milestone 2, we made some revisions aimed at sharpening the clarity of our deliverables. Here is an outline of the changes made:

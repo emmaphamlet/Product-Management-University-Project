@@ -1,3 +1,7 @@
+---
+title: Problem-Statement-Draft
+---
+
 **Problem Statement**
 
 Currently, students, advisors, faculty, and administrators experience registration delays, prerequisite errors, and scheduling inefficiencies because the legacy system lacks real-time processing, mobile support, and robust integrations. This results in student frustration, missed academic opportunities, and high administrative overhead. A solution would provide a responsive, accessible, and scalable system that supports modern academic needs, ensuring smoother registration, better planning tools, and compliance with institutional and legal standards.

@@ -1,3 +1,7 @@
+---
+title: Team-Contract
+---
+
 **INFO 380 Team Contract**
 
 **Team 9:** Lei Ann Dela Cruz, Anant Dhokia, Emma Hamlet, Audrey Yang

@@ -1,8 +1,6 @@
 ---
-layout: default
-title: User Interfaces (Wireframes)
+title: User-Interfaces-(Wireframes)
 ---
-
 
 **User Interfaces (Wireframes)**
 

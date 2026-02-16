@@ -1,3 +1,7 @@
+---
+title: Benefits-and-Features
+---
+
 **Benefits and Features**
 
 Based on our research and stakeholder analysis, we have identified the following necessary features for the new rendition of the GSU course registration system.

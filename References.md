@@ -1,3 +1,7 @@
+---
+title: References
+---
+
 **References**
 1.  EDUCAUSE. (2024). _2025 EDUCAUSE top 10: Smoothing the student journey_. [https://er.educause.edu/articles/2024/10/2025-educause-top-10-3-smoothing-the-student-journey](https://er.educause.edu/articles/2024/10/2025-educause-top-10-3-smoothing-the-student-journey) 
 
