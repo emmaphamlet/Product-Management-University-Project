@@ -1,5 +1,5 @@
 ---
-title: Architecture-(Non%2DFunctional)-Requirements
+title: Architecture-(Non-Functional)-Requirements
 ---
 
 Architecture/Non-functional Requirements for Modern University Course Registration System
