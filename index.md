@@ -1,15 +1,56 @@
-**Executive Summary**
-      
-Global State University’s course registration system is critical to student and faculty operations. However, the current system—developed over 20 years ago—no longer meets the needs of over 48,000 users. It suffers from performance issues during peak periods, lacks tools for faculty advising and planning, and offers limited support for accessibility and modern usability features, particularly affecting minority and underserved students.
+# Product Management University Project
 
-The proposed Modern Course Registration System will replace this outdated infrastructure with a scalable, user-focused platform. It aims to enhance the registration process for students while equipping faculty with advanced tools to support academic success. Our solution is grounded in four priorities:
+This site contains documentation created collaboratively for an INFO 380 product management project. The wiki documents research, analysis, requirements, and proposed solutions developed throughout the project lifecycle.
 
+---
 
-- **Performance**: Improved system uptime and fast response times ensure a smooth, reliable experience.
-- **Accessibility:** Inclusive features will support users with disabilities and non-native English speakers.
-- **Feature Expansion:** Schedule building, waitlists, and integrated planning tools will streamline workflows.
-- **Future Vision:** A modular architecture enables long-term growth and integration with GSU’s ecosystem.
+## Executive Overview
 
+- [Executive Summary](Executive-Summary.md)
+- [Problem Statement Draft](Problem-Statement-Draft.md)
+- [Solution Vision](Solution-Vision.md)
+- [Out of Scope](Out-of-Scope.md)
 
-The new platform will deliver a more intuitive, stress-free registration process for students and provide personalized dashboards for faculty, advisors, and administrators. It will support mobile access and proactive accessibility improvements.
-By investing in this upgrade, GSU demonstrates its commitment to improving user experience and operational efficiency through modern technology. This system lays the foundation for continued academic excellence and equitable access to student services.
+---
+
+## Research & Analysis
+
+- [Initial Research and Analysis Summary](Initial-Research-and-Analysis-Summary.md)
+- [Current State Analysis](Current-State-Analysis.md)
+- [Stakeholder Analysis](Stakeholder-Analysis.md)
+- [Roles and User Needs](Roles-and-User-Needs.md)
+- [References](References.md)
+
+---
+
+## Product Strategy & Planning
+
+- [Objectives and Key Results](Objectives-and-Key-Results.md)
+- [Objectives and Key Results (Workshop)](Objectives-and-Key-Results-(Workshop).md)
+- [Benefits and Features](Benefits-and-Features.md)
+- [Prioritization, Roadmap, and Initial Iterations](Prioritization,-Roadmap,-and-Initial-Iterations.md)
+- [Roadmap](Roadmap.md)
+
+---
+
+## Requirements & Architecture
+
+- [Non-Functional Requirements](Non-Functional-Requirements.md)
+- [Architecture (Non-Functional) Requirements](Architecture-(Non%2DFunctional)-Requirements.md)
+- [Data Flow Diagram](Data-Flow-Diagram.md)
+- [Workflow Diagrams](Workflow-Diagrams.md)
+
+---
+
+## Design
+
+- [User Interfaces (Wireframes)](User-Interfaces-(Wireframes).md)
+
+---
+
+## Project Management
+
+- [Risks, Assumptions, and Dependencies](Risks,-Assumptions,-and-Dependencies.md)
+- [Team Contract](Team-Contract.md)
+- [Change Log](Change-Log.md)
+
