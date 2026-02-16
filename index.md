@@ -1,5 +1,3 @@
-# Product Management University Project
-
 This site contains documentation created collaboratively for an INFO 380 product management project. The wiki documents research, analysis, requirements, and proposed solutions developed throughout the project lifecycle.
 
 ---
