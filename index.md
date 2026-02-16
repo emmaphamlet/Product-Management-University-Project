@@ -49,6 +49,5 @@ This site contains documentation created collaboratively for an INFO 380 product
 ## Project Management
 
 - [Risks, Assumptions, and Dependencies](Risks,-Assumptions,-and-Dependencies.md)
-- [Team Contract](Team-Contract.md)
 - [Change Log](Change-Log.md)
 
