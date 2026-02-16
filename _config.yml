@@ -1,2 +1,4 @@
+theme: minima
+title: Product Management University Project
 include:
   - ".attachments"
