@@ -13,9 +13,15 @@ https://emmaphamlet.github.io/Product-Management-University-Project/
 
 ## My Contributions
 
+- Executive Summary
+- Current State Analysis
+- Problem Statement
 - Research and analysis documentation
-- Workflow and system diagrams
+- Wireframes/UI Design
+- Development of OKRs
+- Architecture-(Non-Functional)-Requirements
 - Product requirements and planning artifacts
+- Risks, assumptions, and dependencies
 - Wiki organization and documentation structure
 
 ## Tools Used
