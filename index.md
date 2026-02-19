@@ -1,8 +1,14 @@
-This site contains documentation created collaboratively for an INFO 380 product management project. The wiki documents research, analysis, requirements, and proposed solutions developed throughout the project lifecycle.
+## Modernizing University Course Registration
+
+This documentation presents a product management case study exploring improvements to university course registration workflows.
+
+The project includes stakeholder research, requirements analysis, workflow modeling, and proposed product solutions developed collaboratively for INFO 380.
+
+👉 [View Executive Summary](Executive-Summary/)
 
 ---
 
-## Executive Overview
+## 📊 Executive Overview
 
 - [Executive Summary](Executive-Summary.md)
 - [Problem Statement Draft](Problem-Statement-Draft.md)
@@ -11,7 +17,7 @@ This site contains documentation created collaboratively for an INFO 380 product
 
 ---
 
-## Research & Analysis
+## 🧠 Research & Analysis
 
 - [Initial Research and Analysis Summary](Initial-Research-and-Analysis-Summary.md)
 - [Current State Analysis](Current-State-Analysis.md)
@@ -21,7 +27,7 @@ This site contains documentation created collaboratively for an INFO 380 product
 
 ---
 
-## Product Strategy & Planning
+## 🗺  Product Strategy & Planning
 
 - [Objectives and Key Results](Objectives-and-Key-Results.md)
 - [Benefits and Features](Benefits-and-Features.md)
@@ -30,7 +36,7 @@ This site contains documentation created collaboratively for an INFO 380 product
 
 ---
 
-## Requirements & Architecture
+## 🏗  Requirements & Architecture
 
 - [Architecture (Non-Functional) Requirements](architecture-non-functional-requirements/)
 - [Data Flow Diagram](Data-Flow-Diagram.md)
@@ -38,13 +44,13 @@ This site contains documentation created collaboratively for an INFO 380 product
 
 ---
 
-## Design
+## 🎨 Design
 
 - [User Interfaces (Wireframes)](wireframes/)
 
 ---
 
-## Project Management
+## ⚙ Project Management
 
 - [Risks, Assumptions, and Dependencies](Risks,-Assumptions,-and-Dependencies.md)
 
