@@ -1,5 +1,7 @@
 theme: jekyll-theme-cayman
 title: Product Management University Project
 permalink: pretty
+header_pages:
+  - index.md
 include:
   - ".attachments"
