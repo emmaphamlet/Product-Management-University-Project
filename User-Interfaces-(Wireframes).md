@@ -1,6 +1,7 @@
 ---
 title: User Interfaces (Wireframes)
 permalink: /wireframes/
+---
 
 **User Interfaces (Wireframes)**
 
