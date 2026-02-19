@@ -14,10 +14,6 @@ We have designed a few wireframes to demonstrate our vision and functionality fo
 The Search & Filter Courses interface allows students to discover courses that match their scheduling preferences through filters for meeting days, time ranges, department, and seat availability, while also offering a "Translate To" dropdown for improved multilingual support. This design aims to address frequent student frustrations expressed with the current legacy slow and outdated course registration system. As noted in both the undergraduate and advisor feedback, this design aligns with their primary need for a system that allows them to view only relevant and available courses. It also helps better support international students who may struggle with the current English-only interface and instead, improves functionality, as noted by the insights from the International Student Office and Disability Services.
 
 **This interface supports**:
-#20 
-#58 
-#52 
-#61
 
 ![image.png](/.attachments/image-2b896fe2-45c7-44d8-95be-1f5666b10742.png)
 ****
@@ -30,9 +26,6 @@ The Course Details interface provides important course information like schedule
 
 **This interface supports**:
 
-#20 
-#58 
-#61
 
 ![image.png](/.attachments/image-8c76a5e6-b55f-486d-a852-d1e8b43a027f.png)
 ****
@@ -45,9 +38,5 @@ The "My Plan" interface allows students to view, edit, register for primary regi
 
 **This interface supports**:
 
-#20
-#58
-#57
-#61
 
 ![image.png](/.attachments/image-d814bfd4-0b4f-471d-bd67-8b4ed5002416.png)
