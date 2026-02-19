@@ -1,4 +1,4 @@
-## Modernizing University Course Registration
+## Modernizing University Course Registration System
 
 This documentation presents a product management case study exploring improvements to university course registration workflows.
 
