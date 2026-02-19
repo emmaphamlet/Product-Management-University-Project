@@ -24,7 +24,6 @@ This site contains documentation created collaboratively for an INFO 380 product
 ## Product Strategy & Planning
 
 - [Objectives and Key Results](Objectives-and-Key-Results.md)
-- [Objectives and Key Results (Workshop)](Objectives-and-Key-Results-(Workshop).md)
 - [Benefits and Features](Benefits-and-Features.md)
 - [Prioritization, Roadmap, and Initial Iterations](Prioritization,-Roadmap,-and-Initial-Iterations.md)
 - [Roadmap](Roadmap.md)
@@ -49,5 +48,4 @@ This site contains documentation created collaboratively for an INFO 380 product
 ## Project Management
 
 - [Risks, Assumptions, and Dependencies](Risks,-Assumptions,-and-Dependencies.md)
-- [Change Log](Change-Log.md)
 
