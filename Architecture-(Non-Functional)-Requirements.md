@@ -1,6 +1,6 @@
 ---
-title: Architecture-(Non-Functional)-Requirements
----
+title: Architecture (Non-Functional) Requirements
+permalink: /architecture-non-functional-requirements/
 
 Architecture/Non-functional Requirements for Modern University Course Registration System
 =========================================================================================

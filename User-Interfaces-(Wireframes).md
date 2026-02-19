@@ -1,6 +1,6 @@
 ---
-title: User-Interfaces-(Wireframes)
----
+title: User Interfaces (Wireframes)
+permalink: /wireframes/
 
 **User Interfaces (Wireframes)**
 
