@@ -40,7 +40,7 @@ This site contains documentation created collaboratively for an INFO 380 product
 
 ## Design
 
-- [User Interfaces (Wireframes)](User-Interfaces-(Wireframes).md)
+- [User Interfaces (Wireframes)](wireframes/)
 
 ---
 
