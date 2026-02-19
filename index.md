@@ -22,6 +22,14 @@ This project was completed collaboratively as part of INFO 380. My primary contr
 
 ---
 
+<p align="center">
+<img src="assets/images/search-filter-wireframe.png" width="850">
+</p>
+
+<p align="center">
+<em>Search and Filter Courses interface designed to improve course discovery through filtering, accessibility features, and multilingual support.</em>
+</p>
+
 ## 📊 Executive Overview
 
 - [Executive Summary](Executive-Summary.md)
