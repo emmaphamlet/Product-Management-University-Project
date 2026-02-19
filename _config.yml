@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
 title: Modernizing University Course Registration System
+description: INFO 380 case study • research → requirements → roadmap → wireframes
 permalink: pretty
 include:
   - ".attachments"
