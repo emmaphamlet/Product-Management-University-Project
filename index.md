@@ -12,7 +12,7 @@ This project was completed collaboratively as part of INFO 380. My primary contr
 - Conducting research synthesis and analysis documentation to inform product direction.
 - Creating and documenting wireframes and user interface concepts aligned with user needs.
 - Supporting the development of Objectives and Key Results (OKRs) and product strategy artifacts.
-- Defininig architecture considerations and non-functional requirements.
+- Defining architecture considerations and non-functional requirements.
 - Producing product planning documentation including prioritization, roadmap development, and iteration planning.
 - Documenting risks, assumptions, and dependencies to support project feasibility analysis.
 - Organizing and structuring the project wiki to support clear communication and navigation.
