@@ -4,7 +4,7 @@ title: Roles-and-User-Needs
 
 This section defines the primary roles interacting with the course registration system and details their goals, skills, work context, and needs. These role-based personas are derived from our stakeholder interviews and support the project objectives through user-centric design.
 
-## #### Undergraduate Student
+#### Undergraduate Student
 
 *   **Purpose & Goals**: Successfully register for required courses to fulfill graduation requirements on time.
     
@@ -32,7 +32,7 @@ This section defines the primary roles interacting with the course registration 
 *   **Multitasking**: Yes, I often access multiple systems (e.g., financial aid, advising).
     
 
-## #### Academic Advisor
+#### Academic Advisor
 
 *   **Purpose & Goals**: Guide students through course planning and ensure they meet degree milestones.
     
@@ -58,7 +58,7 @@ This section defines the primary roles interacting with the course registration 
 *   **Multitasking**: Moderate—works with multiple students per session.
     
 
-## #### IT Administrator
+#### IT Administrator
 
 *   **Purpose & Goals**: Maintain system uptime, data security, and integration with other university systems.
     
