@@ -32,7 +32,6 @@ This site contains documentation created collaboratively for an INFO 380 product
 
 ## Requirements & Architecture
 
-- [Non-Functional Requirements](Non-Functional-Requirements.md)
 - [Architecture (Non-Functional) Requirements](architecture-non-functional-requirements/)
 - [Data Flow Diagram](Data-Flow-Diagram.md)
 - [Workflow Diagrams](Workflow-Diagrams.md)
