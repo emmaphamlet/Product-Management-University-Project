@@ -19,7 +19,7 @@ https://emmaphamlet.github.io/Product-Management-University-Project/
 - Research and analysis documentation
 - Wireframes/UI Design
 - Development of OKRs
-- Architecture-(Non-Functional)-Requirements
+- Architecture and non-functional requirements definition
 - Product requirements and planning artifacts
 - Risks, assumptions, and dependencies
 - Wiki organization and documentation structure
