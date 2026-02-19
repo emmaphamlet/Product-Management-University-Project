@@ -1,0 +1,10 @@
+.page-header {
+  background-image: none !important;
+  background-color: #0b5791 !important; /* change this */
+}
+
+.project-name,
+.project-tagline {
+  color: #ffffff !important;
+}
+
